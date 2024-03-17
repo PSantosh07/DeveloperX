@@ -1,27 +1,56 @@
 span
 {
     color: aqua;
+  
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 h1{
-    color: orange;
+    color:red;
+     display: flex;
+    align-items: center;
 }
 
-hr {git branch -M main
-    git remote add origin https://github.com/PSantosh07/DeveloperX.git
-    git push -u origin main
+
+hr {
     color: rgb(17, 36, 212);
     border: solid 1px;
-
 }
 
 
-nav{
-    padding-left:150px;
-    float: right;
+nav{ float: right;
+    padding: 0px 0px 0px 0px ;
+    margin-top: 0px;
 }
+
+
 nav a {
-    margin: 0px 10px 0px 10px;
-    padding:0px 0px 0px 0px;
+    margin: 0px 10px 0px 20px;
+  
     color: blue;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+h3{
+   color: rgb(16, 248, 229); 
+   font-size: 35PX;
+   text-align: center;
+}
+
+.haha {
+    color: rgb(74, 252, 30);
+}
+
+p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h5{
+    color: greenyellow;
 }
