@@ -7,7 +7,9 @@ h1{
     color: orange;
 }
 
-hr {
+hr {git branch -M main
+    git remote add origin https://github.com/PSantosh07/DeveloperX.git
+    git push -u origin main
     color: rgb(17, 36, 212);
     border: solid 1px;
 
