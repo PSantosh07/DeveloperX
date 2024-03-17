@@ -1,0 +1,25 @@
+span
+{
+    color: aqua;
+}
+
+h1{
+    color: orange;
+}
+
+hr {
+    color: rgb(17, 36, 212);
+    border: solid 1px;
+
+}
+
+
+nav{
+    padding-left:150px;
+    float: right;
+}
+nav a {
+    margin: 0px 10px 0px 10px;
+    padding:0px 0px 0px 0px;
+    color: blue;
+}
